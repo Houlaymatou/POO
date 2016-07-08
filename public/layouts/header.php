@@ -8,7 +8,7 @@
     <link href="assets/css/styles.css" rel="stylesheet">
 </head>
 
-<body>
+<body style="background-color: white;">
 <?php include("navigation.php"); ?>
     <!-- Page Content -->
     <div class="container">

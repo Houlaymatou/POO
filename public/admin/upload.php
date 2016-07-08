@@ -32,7 +32,7 @@
             <!-- /.navbar-collapse -->
         </nav>
 
-        <div id="page-wrapper">
+        <div id="page-wrapper" style="background-color: white;">
           <div class="container-fluid">
               <!-- Page Heading -->
               <div class="row">
